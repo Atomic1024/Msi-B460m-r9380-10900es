@@ -11,9 +11,9 @@
 ## 更新记录
 * 2020-10-15
 驱动内建声卡,需要的kext：
-> 1.APPLEALC.KEXT
-> 2.FakePCIID.kext  
-> 3.FakePCIID_Intel_HDMI_Audio.kext 
+> 1.APPLEALC.KEXT <br>
+> 2.FakePCIID.kext <br>
+> 3.FakePCIID_Intel_HDMI_Audio.kext <br>
 
 -----------------------
 * 2020-10-16
