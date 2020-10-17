@@ -2,9 +2,9 @@
 
 ## 主机配置
 
-> CPU：10900es QBT1
+> CPU：10900es QBT1 <br>
 
-> 主板：MSI B460m 迫击炮
+> 主板：MSI B460m 迫击炮 <br>
 
 > 内存：16G*2 DDR4 2666
 
